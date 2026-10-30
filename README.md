@@ -1,8 +1,9 @@
 # Pertemuan 11 - Dictionary/Map
 
-Nama: Ririn Setiarin  
-NIM: 2225250159  
-Kelas: ...
+Nama: Siti Fitriani 
+NIM: 2225250213
+Kelas: 3b
+
 
 ## Tujuan
 Memodelkan data pendidikan menggunakan dictionary dan pasangan key-value.
